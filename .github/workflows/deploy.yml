@@ -5,11 +5,10 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pages: write
+      contents: write
       id-token: write
 
     steps:
@@ -32,20 +31,13 @@ jobs:
       - name: List exported files (debug)
         run: ls -la out || true
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+      - name: Deploy to gh-pages branch (peaceiris)
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: ./out
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages
+          user_name: github-actions
+          user_email: actions@github.com
+          keep_files: false
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
