@@ -27,7 +27,6 @@ jobs:
       - name: Build (Next.js export)
         run: |
           npm run build
-          npm run export
 
       - name: List exported files (debug)
         run: ls -la out || true

@@ -5,10 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
     "lint": "next lint",
-    "deploy:export": "npm run build && npm run export"
+    "deploy:export": "npm run build"
   },
   "dependencies": {
     "next": "^14.2.15",
