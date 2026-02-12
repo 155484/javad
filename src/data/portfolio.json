@@ -1,0 +1,276 @@
+{
+  "profile": {
+    "name": {
+      "en": "Javad Hassan-Nataj Jolodari",
+      "fa": "جواد حسن‌نتاج جلوداری"
+    },
+    "email": "javad.hasannataj@gmail.com",
+    "phone": "+989368174400",
+    "linkedin": "https://linkedin.com/in/javad-hassannataj-joloudari-0941a36a",
+    "researchgate": "https://www.researchgate.net/profile/Javad-Hassannataj-Joloudari",
+    "googleScholar": "https://scholar.google.com/citations?user=-_1_pF0AAAAJ&hl=en",
+    "avatar": "/avatar.jpg"
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "achievements": "Achievements",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Hello, I'm",
+      "name": "Javad Hassan-Nataj Jolodari",
+      "titles": [
+        "Senior AI Researcher",
+        "Deep Learning Expert",
+        "Brilliant Talent"
+      ],
+      "description": "Pioneering advanced AI research in medical image analysis and deep learning, with 50+ publications in top-tier journals including Nature, Elsevier, Springer, and IEEE.",
+      "ctaPrimary": "Get Consultation",
+      "ctaSecondary": "My Publications"
+    },
+    "about": {
+      "sectionTitle": "About Me",
+      "sectionSubtitle": "Senior AI Researcher & Deep Learning Expert",
+      "paragraphs": [
+        "Javad Hassan-Nataj Jolodari is a senior researcher in the field of artificial intelligence applications based on deep learning, with a special focus on medical image analysis and processing.",
+        "He is recognized as a brilliant talent and one of the outstanding students in research activities at the University of Birjand. He has received several discount coupons for publishing articles from reputable publishers including Mathematical Biosciences and Engineering, Multidisciplinary Digital Publishing Institute (MDPI), and Taylor & Francis.",
+        "His main research areas include deep learning architectures, image processing, medical image analysis, and face and emotion recognition."
+      ],
+      "highlights": [
+        { "label": "Publications", "value": "50+" },
+        { "label": "Research Focus", "value": "Medical AI" },
+        { "label": "Recognition", "value": "Brilliant Talent" },
+        { "label": "University", "value": "Birjand" }
+      ]
+    },
+    "services": {
+      "sectionTitle": "Services",
+      "sectionSubtitle": "Professional consulting and engineering solutions",
+      "items": [
+        {
+          "icon": "GraduationCap",
+          "title": "Academic Consulting",
+          "description": "Expert guidance on thesis and essay preparation, research plan design, and implementation of academic programs. Consulting services for higher education, research activities, technology, and student affairs.",
+          "features": [
+            "Thesis & Essay Guidance",
+            "Research Plan Implementation",
+            "Higher Education Consulting",
+            "Student Affairs Advisory"
+          ]
+        },
+        {
+          "icon": "Brain",
+          "title": "AI Engineering",
+          "description": "Cutting-edge artificial intelligence solutions including deep learning model development, face and emotion recognition systems, and medical image analysis pipelines.",
+          "features": [
+            "Deep Learning Development",
+            "Face & Emotion Recognition",
+            "Medical Image Analysis",
+            "Custom AI Solutions"
+          ]
+        },
+        {
+          "icon": "Code",
+          "title": "Web Development",
+          "description": "Professional web-based systems and software development. Building modern, scalable applications tailored to your business requirements.",
+          "features": [
+            "Web-Based Systems",
+            "Software Development",
+            "E-Commerce Solutions",
+            "Custom Applications"
+          ]
+        },
+        {
+          "icon": "FlaskConical",
+          "title": "Research Consulting",
+          "description": "Consulting services to scientific and research executive institutions in evaluation, review, and implementation of research plans and programs.",
+          "features": [
+            "Research Evaluation",
+            "Plan Review & Implementation",
+            "Scientific Advisory",
+            "Institutional Consulting"
+          ]
+        }
+      ]
+    },
+    "achievements": {
+      "sectionTitle": "Achievements",
+      "sectionSubtitle": "A track record of academic excellence and recognition",
+      "stats": [
+        { "value": "50+", "label": "Scientific Papers" },
+        { "value": "4+", "label": "Top Publishers" },
+        { "value": "10+", "label": "Journal Reviewer" },
+        { "value": "1", "label": "Brilliant Talent Award" }
+      ],
+      "publishers": {
+        "title": "Published In",
+        "items": ["Nature", "Elsevier", "Springer", "IEEE"]
+      },
+      "reviewer": {
+        "title": "Journal Reviewer",
+        "items": [
+          "Scientific Reports",
+          "BioMedical Engineering OnLine",
+          "Medical and Biological Engineering and Computing",
+          "Physical and Engineering Sciences in Medicine",
+          "Mathematical Biosciences and Engineering",
+          "Insights into Imaging",
+          "Ambient Intelligence and Humanized Computing",
+          "Expert Systems with Applications",
+          "Biomedical Signal Processing and Control",
+          "Frontiers in Artificial Intelligence"
+        ]
+      }
+    },
+    "contact": {
+      "sectionTitle": "Get in Touch",
+      "sectionSubtitle": "Let's collaborate on your next project",
+      "description": "Whether you need AI consulting, academic guidance, or web development services, I'm here to help. Reach out and let's discuss how we can work together.",
+      "ctaEmail": "Send Email",
+      "ctaPhone": "Call Now",
+      "infoCards": [
+        { "icon": "Mail", "label": "Email", "value": "javad.hasannataj@gmail.com" },
+        { "icon": "Phone", "label": "Phone", "value": "+98 936 817 4400" },
+        { "icon": "MapPin", "label": "Location", "value": "University of Birjand, Iran" }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2026 Javad Hassan-Nataj Jolodari. All rights reserved.",
+      "tagline": "Senior AI Researcher & Deep Learning Expert"
+    }
+  },
+  "fa": {
+    "nav": {
+      "home": "خانه",
+      "about": "درباره من",
+      "services": "خدمات",
+      "achievements": "دستاوردها",
+      "contact": "تماس"
+    },
+    "hero": {
+      "greeting": "سلام، من هستم",
+      "name": "جواد حسن‌نتاج جلوداری",
+      "titles": [
+        "پژوهشگر ارشد هوش مصنوعی",
+        "متخصص یادگیری عمیق",
+        "استعداد درخشان"
+      ],
+      "description": "پیشرو در تحقیقات پیشرفته هوش مصنوعی در تحلیل تصاویر پزشکی و یادگیری عمیق، با بیش از ۵۰ مقاله در مجلات معتبر از جمله Nature، Elsevier، Springer و IEEE.",
+      "ctaPrimary": "دریافت مشاوره",
+      "ctaSecondary": "مقالات من"
+    },
+    "about": {
+      "sectionTitle": "درباره من",
+      "sectionSubtitle": "پژوهشگر ارشد هوش مصنوعی و متخصص یادگیری عمیق",
+      "paragraphs": [
+        "جواد حسن‌نتاج جلوداری پژوهشگر ارشد در زمینه کاربردهای هوش مصنوعی مبتنی بر یادگیری عمیق با تمرکز ویژه بر تحلیل و پردازش تصاویر پزشکی است.",
+        "وی به عنوان استعداد درخشان و یکی از دانشجویان برتر در فعالیت‌های پژوهشی دانشگاه بیرجند شناخته شده است. همچنین چندین کوپن تخفیف برای انتشار مقاله از ناشران معتبر از جمله Mathematical Biosciences and Engineering، مؤسسه انتشارات دیجیتال چندرشته‌ای (MDPI) و Taylor & Francis دریافت کرده است.",
+        "حوزه‌های اصلی تحقیقاتی او شامل معماری‌های یادگیری عمیق، پردازش تصویر، تحلیل تصاویر پزشکی و تشخیص چهره و احساسات است."
+      ],
+      "highlights": [
+        { "label": "مقالات", "value": "+۵۰" },
+        { "label": "تمرکز پژوهشی", "value": "هوش مصنوعی پزشکی" },
+        { "label": "افتخار", "value": "استعداد درخشان" },
+        { "label": "دانشگاه", "value": "بیرجند" }
+      ]
+    },
+    "services": {
+      "sectionTitle": "خدمات",
+      "sectionSubtitle": "مشاوره حرفه‌ای و راهکارهای مهندسی",
+      "items": [
+        {
+          "icon": "GraduationCap",
+          "title": "مشاوره دانشگاهی",
+          "description": "راهنمایی تخصصی در تهیه پایان‌نامه و مقاله، طراحی طرح تحقیقاتی و اجرای برنامه‌های دانشگاهی. خدمات مشاوره‌ای در زمینه آموزش عالی، فعالیت‌های پژوهشی، فناوری و امور دانشجویی.",
+          "features": [
+            "راهنمایی پایان‌نامه و مقاله",
+            "اجرای طرح تحقیقاتی",
+            "مشاوره آموزش عالی",
+            "مشاوره امور دانشجویی"
+          ]
+        },
+        {
+          "icon": "Brain",
+          "title": "مهندسی هوش مصنوعی",
+          "description": "راهکارهای پیشرفته هوش مصنوعی شامل توسعه مدل‌های یادگیری عمیق، سیستم‌های تشخیص چهره و احساسات و خطوط تحلیل تصاویر پزشکی.",
+          "features": [
+            "توسعه یادگیری عمیق",
+            "تشخیص چهره و احساسات",
+            "تحلیل تصاویر پزشکی",
+            "راهکارهای سفارشی هوش مصنوعی"
+          ]
+        },
+        {
+          "icon": "Code",
+          "title": "توسعه وب",
+          "description": "توسعه حرفه‌ای سیستم‌ها و نرم‌افزارهای مبتنی بر وب. ساخت اپلیکیشن‌های مدرن و مقیاس‌پذیر متناسب با نیازهای کسب‌وکار شما.",
+          "features": [
+            "سیستم‌های مبتنی بر وب",
+            "توسعه نرم‌افزار",
+            "راهکارهای تجارت الکترونیک",
+            "اپلیکیشن‌های سفارشی"
+          ]
+        },
+        {
+          "icon": "FlaskConical",
+          "title": "مشاوره پژوهشی",
+          "description": "خدمات مشاوره‌ای به مؤسسات علمی و پژوهشی اجرایی در ارزیابی، بررسی و اجرای طرح‌ها و برنامه‌های مرتبط با امور پژوهشی.",
+          "features": [
+            "ارزیابی تحقیقات",
+            "بررسی و اجرای طرح",
+            "مشاوره علمی",
+            "مشاوره سازمانی"
+          ]
+        }
+      ]
+    },
+    "achievements": {
+      "sectionTitle": "دستاوردها",
+      "sectionSubtitle": "سابقه‌ای از تعالی دانشگاهی و افتخارات",
+      "stats": [
+        { "value": "+۵۰", "label": "مقاله علمی" },
+        { "value": "+۴", "label": "ناشر معتبر" },
+        { "value": "+۱۰", "label": "داوری مجلات" },
+        { "value": "۱", "label": "جایزه استعداد درخشان" }
+      ],
+      "publishers": {
+        "title": "انتشار در",
+        "items": ["Nature", "Elsevier", "Springer", "IEEE"]
+      },
+      "reviewer": {
+        "title": "داوری مجلات",
+        "items": [
+          "Scientific Reports",
+          "BioMedical Engineering OnLine",
+          "Medical and Biological Engineering and Computing",
+          "Physical and Engineering Sciences in Medicine",
+          "Mathematical Biosciences and Engineering",
+          "Insights into Imaging",
+          "Ambient Intelligence and Humanized Computing",
+          "Expert Systems with Applications",
+          "Biomedical Signal Processing and Control",
+          "Frontiers in Artificial Intelligence"
+        ]
+      }
+    },
+    "contact": {
+      "sectionTitle": "تماس با من",
+      "sectionSubtitle": "بیایید در پروژه بعدی شما همکاری کنیم",
+      "description": "چه به مشاوره هوش مصنوعی، راهنمایی دانشگاهی یا خدمات توسعه وب نیاز دارید، من اینجا هستم تا کمک کنم. تماس بگیرید و بیایید درباره همکاری صحبت کنیم.",
+      "ctaEmail": "ارسال ایمیل",
+      "ctaPhone": "تماس بگیرید",
+      "infoCards": [
+        { "icon": "Mail", "label": "ایمیل", "value": "javad.hasannataj@gmail.com" },
+        { "icon": "Phone", "label": "تلفن", "value": "۰۹۳۶۸۱۷۴۴۰۰" },
+        { "icon": "MapPin", "label": "موقعیت", "value": "دانشگاه بیرجند، ایران" }
+      ]
+    },
+    "footer": {
+      "copyright": "© ۲۰۲۶ جواد حسن‌نتاج جلوداری. تمامی حقوق محفوظ است.",
+      "tagline": "پژوهشگر ارشد هوش مصنوعی و متخصص یادگیری عمیق"
+    }
+  }
+}
