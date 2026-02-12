@@ -21,8 +21,8 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        # use `npm install` when package-lock.json is not present (avoids npm ci failure)
-        run: npm install --no-audit --no-fund
+        # use plain `npm install` for CI
+        run: npm install
 
       - name: Build (Next.js export)
         run: |
