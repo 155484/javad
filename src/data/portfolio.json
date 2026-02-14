@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": {
-      "en": "Javad Hassan-Nataj Jolodari",
+      "en": "Javad HHassannataj Joloudari",
       "fa": "جواد حسن‌نتاج جلوداری"
     },
     "email": "javad.hasannataj@gmail.com",
@@ -21,7 +21,7 @@
     },
     "hero": {
       "greeting": "Hello, I'm",
-      "name": "Javad Hassan-Nataj Jolodari",
+      "name": "Javad HHassannataj Joloudari",
       "titles": [
         "Senior AI Researcher",
         "Deep Learning Expert",
@@ -35,7 +35,7 @@
       "sectionTitle": "About Me",
       "sectionSubtitle": "Senior AI Researcher & Deep Learning Expert",
       "paragraphs": [
-        "Javad Hassan-Nataj Jolodari is a senior researcher in the field of artificial intelligence applications based on deep learning, with a special focus on medical image analysis and processing.",
+        "Javad HHassannataj Joloudari is a senior researcher in the field of artificial intelligence applications based on deep learning, with a special focus on medical image analysis and processing.",
         "He is recognized as a brilliant talent and one of the outstanding students in research activities at the University of Birjand. He has received several discount coupons for publishing articles from reputable publishers including Mathematical Biosciences and Engineering, Multidisciplinary Digital Publishing Institute (MDPI), and Taylor & Francis.",
         "His main research areas include deep learning architectures, image processing, medical image analysis, and face and emotion recognition."
       ],
@@ -138,7 +138,7 @@
       ]
     },
     "footer": {
-      "copyright": "© 2026 Javad Hassan-Nataj Jolodari. All rights reserved.",
+      "copyright": "© 2026 Javad HHassannataj Joloudari. All rights reserved.",
       "tagline": "Senior AI Researcher & Deep Learning Expert"
     }
   },

@@ -21,8 +21,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        # use plain `npm install` for CI
-        run: npm install
+        run: npm ci
 
       - name: Build (Next.js export)
         run: |

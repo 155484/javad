@@ -1,20 +1,20 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Javad Hassan-Nataj Jolodari — Senior AI Researcher",
+  title: "Javad Hassannataj Joloudari — Senior AI Researcher",
   description:
-    "Portfolio of Javad Hassan-Nataj Jolodari, Senior AI Researcher specializing in Deep Learning, Medical Image Analysis, and Face Recognition. 50+ publications in Nature, Elsevier, Springer, IEEE.",
+    "Portfolio of Javad HHassannataj Joloudari, Senior AI Researcher specializing in Deep Learning, Medical Image Analysis, and Face Recognition. 50+ publications in Nature, Elsevier, Springer, IEEE.",
   keywords: [
     "AI Researcher",
     "Deep Learning",
     "Medical Image Analysis",
-    "Javad Hassan-Nataj",
+    "Javad HHassannataj",
     "Machine Learning",
     "Computer Vision",
   ],
-  authors: [{ name: "Javad Hassan-Nataj Jolodari" }],
+  authors: [{ name: "Javad HHassannataj Joloudari" }],
   openGraph: {
-    title: "Javad Hassan-Nataj Jolodari — Senior AI Researcher",
+    title: "Javad HHassannataj Joloudari — Senior AI Researcher",
     description:
       "Senior AI Researcher specializing in Deep Learning and Medical Image Analysis with 50+ publications.",
     type: "website",
