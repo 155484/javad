@@ -1,6 +1,6 @@
 "use client";
 
-import React, { createContext, useContext, useState, useCallback } from "react";
+import React, { createContext, useContext, useState, useCallback, useEffect } from "react";
 
 type Lang = "en" | "fa";
 
@@ -13,15 +13,47 @@ interface LanguageContextType {
 }
 
 const LanguageContext = createContext<LanguageContextType>({
-  lang: "en",
-  dir: "ltr",
+  lang: "fa",
+  dir: "rtl",
   toggleLanguage: () => {},
-  isRTL: false,
-  fontClass: "font-sans",
+  isRTL: true,
+  fontClass: "font-persian",
 });
 
+function detectSystemLanguage(): Lang | null {
+  if (typeof navigator === "undefined") return null;
+  const nav = (navigator.language || (navigator.languages && navigator.languages[0]) || "").toLowerCase();
+  if (!nav) return null;
+  if (nav.startsWith("fa")) return "fa";
+  if (nav.startsWith("en")) return "en";
+  return "en"; // system readable but not fa/en -> default to English
+}
+
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLang] = useState<Lang>("en");
+  const [lang, setLang] = useState<Lang>(() => {
+    try {
+      if (typeof window !== "undefined") {
+        const saved = window.localStorage.getItem("lang");
+        if (saved === "fa" || saved === "en") return saved as Lang;
+      }
+    } catch (e) {
+      /* ignore */
+    }
+
+    const sys = detectSystemLanguage();
+    if (sys) return sys;
+
+    // system not readable -> default to Persian
+    return "fa";
+  });
+
+  useEffect(() => {
+    try {
+      window.localStorage.setItem("lang", lang);
+    } catch (e) {
+      /* ignore */
+    }
+  }, [lang]);
 
   const toggleLanguage = useCallback(() => {
     setLang((prev) => (prev === "en" ? "fa" : "en"));
