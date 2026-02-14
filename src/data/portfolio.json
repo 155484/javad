@@ -134,7 +134,7 @@
       "infoCards": [
         { "icon": "Mail", "label": "Email", "value": "javad.hasannataj@gmail.com" },
         { "icon": "Phone", "label": "Phone", "value": "+98 936 817 4400" },
-        { "icon": "MapPin", "label": "Location", "value": "University of Birjand, Iran" }
+        { "icon": "MapPin", "label": "Location", "value": "Babol, Iran" }
       ]
     },
     "footer": {
@@ -265,7 +265,7 @@
       "infoCards": [
         { "icon": "Mail", "label": "ایمیل", "value": "javad.hasannataj@gmail.com" },
         { "icon": "Phone", "label": "تلفن", "value": "۰۹۳۶۸۱۷۴۴۰۰" },
-        { "icon": "MapPin", "label": "موقعیت", "value": "دانشگاه بیرجند، ایران" }
+        { "icon": "MapPin", "label": "موقعیت", "value": "بابل، ایران" }
       ]
     },
     "footer": {
