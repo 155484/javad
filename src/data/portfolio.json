@@ -133,7 +133,7 @@
       "ctaPhone": "Call Now",
       "infoCards": [
         { "icon": "Mail", "label": "Email", "value": "javad.hasannataj@gmail.com" },
-        { "icon": "Phone", "label": "Phone", "value": "+98 936 817 4400" },
+        { "icon": "Phone", "label": "Phone", "value": "+98 911 679 8309" },
         { "icon": "MapPin", "label": "Location", "value": "Babol, Iran" }
       ]
     },
@@ -264,7 +264,7 @@
       "ctaPhone": "تماس بگیرید",
       "infoCards": [
         { "icon": "Mail", "label": "ایمیل", "value": "javad.hasannataj@gmail.com" },
-        { "icon": "Phone", "label": "تلفن", "value": "۰۹۳۶۸۱۷۴۴۰۰" },
+        { "icon": "Phone", "label": "تلفن", "value": "۰۹۱۱۶۷۹۸۳۰۹" },
         { "icon": "MapPin", "label": "موقعیت", "value": "بابل، ایران" }
       ]
     },
